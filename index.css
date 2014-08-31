@@ -60,13 +60,8 @@ p {
 	top: 0;
 }
 
-<<<<<<< HEAD
-#links li, #lisks a {
-	height: 48px;
-=======
 #links li, #links a {
 	height: 32px;
->>>>>>> add-icons
 	display: block;
 }
 
