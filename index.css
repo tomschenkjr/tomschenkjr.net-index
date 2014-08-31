@@ -60,19 +60,60 @@ p {
 	top: 0;
 }
 
+<<<<<<< HEAD
 #links li, #lisks a {
 	height: 48px;
+=======
+#links li, #links a {
+	height: 32px;
+>>>>>>> add-icons
 	display: block;
 }
 
 #blog {
 	left: 0px;
-	width: 48px;
+	width: 32px;
 	background: url('icons/rss.png') 0 0;
 }
 
 #twitter {
-	left: 96px;
-	width: 48px;
-	background: url('icons/twitter.png') -48px 0;
+	left: 14.3%;
+	width: 32px;
+	background: url('icons/twitter.png') -15% 0;
+}
+
+#contact {
+	left: 28.6%;
+	width: 32px;
+	background: url('icons/email.png') -30% 0;	
+}
+
+#linkedin {
+	left: 42.8%;
+	width: 32px;
+	background: url('icons/linkedin.png') -45% 0;
+}
+
+#google-plus {
+	left: 57.2%;
+	width: 32px;
+	background: url('icons/google-plus.png') -60% 0;
+}
+
+#github {
+	left: 71.5%;
+	width: 32px;
+	background: url('icons/github.png') -75% 0;
+}
+
+#datanouveau {
+	left: 85.7%;
+	width: 32px;
+	background: url('icons/tumblr.png') -90% 0;
+}
+
+#flickr {
+	left: 100%;
+	width: 32px;
+	background: url('icons/flickr.png') -100% 0;
 }
