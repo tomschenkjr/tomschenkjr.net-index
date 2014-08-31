@@ -1,0 +1,59 @@
+body {
+	background-color: #fff
+}
+
+.center {
+	position: relative;
+	margin: auto;
+	width: 50%;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+h1 {
+	font-family: "Times New Roman";
+	font-size: 40px;
+	font-color: #000;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: "Helvetica";
+	font-size: 16px;
+	font-color: #000;
+}
+
+p {
+	font-family: "Helvetica";
+	font-size: 16px;
+	font-color: #000;
+}
+
+#links {
+	position: relative;
+}
+
+#links li {
+	margin: 0;
+	padding: 0px;
+	list-style: none;
+	position: absolute;
+	top: 0;
+}
+
+#links li #lisks a {
+	height: 48px;
+	display: block;
+}
+
+#blog {
+	left: 0px;
+	width: 48px;
+	background: url('icons/rss.png') 0 0;
+}
+
+#twitter {
+	left: 96px;
+	width: 48px;
+	background: url('icons/twitter.png') -48px 0;
+}
