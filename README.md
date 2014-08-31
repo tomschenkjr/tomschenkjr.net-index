@@ -1,7 +1,3 @@
-# 
+# tomschenkjr.net
 
-## Licensing
-
-### Icons
-This site uses icons from various sites. Below lists the licenses associated with each:
-
+This site is used as the main page of [tomschenkjr.net](http://tomschenkjr.net)
