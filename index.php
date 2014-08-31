@@ -1,5 +1,6 @@
 <html>
 <head>
+	<title>Tom Schenk Jr.</title>
 	<link rel="stylesheet" type="text/css" href="index.css">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
