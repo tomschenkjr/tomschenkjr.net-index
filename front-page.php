@@ -4,6 +4,14 @@
 	<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/front-page.css">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-32325320-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 </head>
 
 <body>
@@ -17,7 +25,7 @@
 		<li id="contact"><a href="http://tomschenkjr.net/contact"></a></li>
 		<li id="linkedin"><a href="https://www.linkedin.com/profile/view?id=330468838&trk=spm_pic"></a></li>
 		<li id="google-plus"><a href="https://plus.google.com/+TomSchenkJr"></a></li>
-		<li id="github"><a href="http://github.com/Chicago"></a></li>
+		<li id="github"><a href="http://github.com/tomschenkjr"></a></li>
 		<li id="datanouveau"><a href="http://datanouveau.net"></a></li>
 		<li id="flickr"><a href=""></a></li>
 	</ul>
