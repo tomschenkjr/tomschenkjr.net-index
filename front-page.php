@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>Tom Schenk Jr.</title>
-	<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wp-content/themes/vigilance/front-page.css">
+	<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/front-page.css">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
 </head>
