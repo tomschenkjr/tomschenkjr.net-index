@@ -27,7 +27,7 @@
 		<li id="google-plus"><a href="https://plus.google.com/+TomSchenkJr"></a></li>
 		<li id="github"><a href="http://github.com/tomschenkjr"></a></li>
 		<li id="datanouveau"><a href="http://datanouveau.net"></a></li>
-		<li id="flickr"><a href=""></a></li>
+		<li id="picasa"><a href="https://plus.google.com/+TomSchenkJr/photos"></a></li>
 	</ul>
 </div>
 </body>

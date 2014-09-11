@@ -112,3 +112,9 @@ p {
 	width: 32px;
 	background: url('icons/flickr.png') -100% 0;
 }
+
+#picasa {
+	left: 100%;
+	width: 32px;
+	background: url('icons/picasa.png') -100% 0;
+}
