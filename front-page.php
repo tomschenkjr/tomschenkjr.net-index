@@ -17,7 +17,6 @@
 <body>
 <div class="center">
 	<h1>Tom Schenk Jr.</h1>
-	<h2>Nuts and bolts of research and policy in social sciences</h2>
 	<p>I work with data. My work has been using data to impact and improve the daily life of people. I am currently the Director of Analytics and Performance Management with the City of Chicago. I write on my <a href="http://tomschenkjr.net/blog">blog</a> about my current focus on open data, research, and data visualization and also write at <a href="www.datanouveau.net">Data Nouveau</a>, a site dedicated to data visualization. You can find me at the following sites.</p>
 	<ul id="links">
 		<li id="blog"><a href="http://tomschenkjr.net/blog"></a></li>
