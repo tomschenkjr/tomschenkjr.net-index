@@ -54,7 +54,7 @@ p.aboutme {
 	top: 0;
 }
 
-#iconify li, #links a {
+#iconify li, #iconify a {
 	height: 32px;
 	display: block;
 }
