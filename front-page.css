@@ -6,7 +6,7 @@ body {
 	position: relative;
 	margin: auto;
 	width: 50%;
-	top: 50%;
+	top: 40%;
 	transform: translateY(-50%);
 }
 
@@ -23,7 +23,8 @@ a:hover {
 	text-decoration: underline;
 }
 
-h1 {
+.name {
+	margin-bottom: 5%;
 	font-family: "Times New Roman";
 	font-size: 60px;
 	font-color: #000;
@@ -32,27 +33,20 @@ h1 {
 	line-height: 40%;
 }
 
-h2 {
-	font-family: "Helvetica";
-	font-size: 16px;
-	font-color: #000;
-	text-align: center;
-}
-
-p {
+p.aboutme {
 	font-family: "Raleway";
 	font-size: 16px;
 	font-color: #000;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 130%
+	line-height: 130%;
 }
 
-#links {
+#iconify {
 	position: relative;
 }
 
-#links li {
+#iconify li {
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -60,61 +54,61 @@ p {
 	top: 0;
 }
 
-#links li, #links a {
+#iconify li, #iconify a {
 	height: 32px;
 	display: block;
 }
 
 #blog {
-	left: 0px;
+	left: -32px;
 	width: 32px;
 	background: url('icons/rss.png') 0 0;
 }
 
 #twitter {
-	left: 14.3%;
+	left: 13.7%;
 	width: 32px;
-	background: url('icons/twitter.png') -15% 0;
+	background: url('icons/twitter.png') -13.7% 0;
 }
 
 #contact {
-	left: 28.6%;
+	left: 27.3%;
 	width: 32px;
-	background: url('icons/email.png') -30% 0;	
+	background: url('icons/email.png') -27.3% 0;	
 }
 
 #linkedin {
-	left: 42.8%;
+	left: 41%;
 	width: 32px;
-	background: url('icons/linkedin.png') -45% 0;
+	background: url('icons/linkedin.png') -41.0% 0;
 }
 
 #google-plus {
-	left: 57.2%;
+	left: 54.6%;
 	width: 32px;
-	background: url('icons/google-plus.png') -60% 0;
+	background: url('icons/google-plus.png') -54.6% 0;
 }
 
 #github {
-	left: 71.5%;
+	left: 68.3%;
 	width: 32px;
-	background: url('icons/github.png') -75% 0;
+	background: url('icons/github.png') -68.3% 0;
 }
 
 #datanouveau {
-	left: 85.7%;
+	left: 81.9%;
 	width: 32px;
-	background: url('icons/tumblr.png') -90% 0;
+	background: url('icons/tumblr.png') -81.9% 0;
 }
 
 #flickr {
-	left: 100%;
+	left: 95.6%;
 	width: 32px;
-	background: url('icons/flickr.png') -100% 0;
+	background: url('icons/flickr.png') -95.6% 0;
 }
 
 #picasa {
-	left: 100%;
+	left: 95.6%;
 	width: 32px;
-	background: url('icons/picasa.png') -100% 0;
+	background: url('icons/picasa.png') -95.6% 0;
 }
