@@ -66,49 +66,49 @@ p.aboutme {
 }
 
 #twitter {
-	left: 12.5%;
+	left: 13.7%;
 	width: 32px;
 	background: url('icons/twitter.png') -13.7% 0;
 }
 
 #contact {
-	left: 25%;
+	left: 27.3%;
 	width: 32px;
 	background: url('icons/email.png') -27.3% 0;	
 }
 
 #linkedin {
-	left: 37.5%;
+	left: 41%;
 	width: 32px;
 	background: url('icons/linkedin.png') -41.0% 0;
 }
 
 #google-plus {
-	left: 50%;
+	left: 54.6%;
 	width: 32px;
 	background: url('icons/google-plus.png') -54.6% 0;
 }
 
 #github {
-	left: 62.5%;
+	left: 68.3%;
 	width: 32px;
 	background: url('icons/github.png') -68.3% 0;
 }
 
 #datanouveau {
-	left: 75%;
+	left: 81.9%;
 	width: 32px;
 	background: url('icons/tumblr.png') -81.9% 0;
 }
 
 #flickr {
-	left: 87.5%;
+	left: 95.6%;
 	width: 32px;
-	background: url('icons/flickr.png') -87.5% 0;
+	background: url('icons/flickr.png') -95.6% 0;
 }
 
 #picasa {
-	left: 100%;
+	left: 95.6%;
 	width: 32px;
 	background: url('icons/picasa.png') -95.6% 0;
 }
