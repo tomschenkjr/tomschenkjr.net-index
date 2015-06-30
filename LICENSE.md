@@ -11,6 +11,10 @@ This work consists of several design elements with their respective license. Bel
 * delicious.png - [Dan Leech](https://www.iconfinder.com/icons/167663/delicious_icon)
 * linkedin.png - [Dan Leech](https://www.iconfinder.com/icons/167667/linkedin_icon)
 
+### [Creative Commons Attribution (CC BY 3.0 US)](http://creativecommons.org/licenses/by/3.0/us/)
+* mail.png - [Haitham Almayman](https://thenounproject.com/term/mail/76984)
+* write.png - [Charlene Chen](https://thenounproject.com/search/?q=blog&i=22662)
+
 ### MIT License
 The following files are obtained under an MIT License. Below is a copy of the copyright notice as required by the MIT license.
 * github.png

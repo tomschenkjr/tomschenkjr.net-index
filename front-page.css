@@ -62,7 +62,7 @@ p.aboutme {
 #blog {
 	left: -32px;
 	width: 32px;
-	background: url('icons/rss.png') 0 0;
+	background: url('icons/write.png') 0 0;
 }
 
 #twitter {
@@ -74,7 +74,7 @@ p.aboutme {
 #contact {
 	left: 27.3%;
 	width: 32px;
-	background: url('icons/email.png') -27.3% 0;	
+	background: url('icons/mail.png') -27.3% 0;	
 }
 
 #linkedin {
