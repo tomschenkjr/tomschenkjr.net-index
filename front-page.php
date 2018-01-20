@@ -4,8 +4,8 @@
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/assets/css/main.css">
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/style.css">
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/assets/frameworks/bootstrap/css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="front-page-assets/css/front-page.css">
-		<link rel="stylesheet" type="text/css" href="front-page-assets/css/academicons.css">
+		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/front-page-assets/css/front-page.css">
+		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/front-page-assets/css/academicons.css">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
 		<script>
