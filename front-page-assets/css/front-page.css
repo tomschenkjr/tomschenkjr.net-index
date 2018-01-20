@@ -62,53 +62,52 @@ p.aboutme {
 #blog {
 	left: -32px;
 	width: 32px;
-	background: url('icons/rss.png') 0 0;
+	background: url('../icons/rss.png') 0 0;
 }
 
 #twitter {
 	left: 13.7%;
 	width: 32px;
-	background: url('icons/twitter.png') -13.7% 0;
+	background: url('../icons/twitter.png') -13.7% 0;
 }
 
 #contact {
 	left: 27.3%;
 	width: 32px;
-	background: url('icons/email.png') -27.3% 0;	
+	background: url('../icons/email.png') -27.3% 0;	
 }
 
 #linkedin {
 	left: 41%;
 	width: 32px;
-	background: url('icons/linkedin.png') -41.0% 0;
+	background: url('../icons/linkedin.png') -41.0% 0;
 }
 
-#google-plus {
+#google-scholar {
 	left: 54.6%;
 	width: 32px;
-	background: url('icons/google-plus.png') -54.6% 0;
+	/*background: url('../icons/google-plus.png') -54.6% 0;*/
 }
 
 #github {
 	left: 68.3%;
 	width: 32px;
-	background: url('icons/github.png') -68.3% 0;
+	background: url('../icons/github.png') -68.3% 0;
 }
 
 #datanouveau {
 	left: 81.9%;
 	width: 32px;
-	background: url('icons/tumblr.png') -81.9% 0;
+	background: url('../icons/tumblr.png') -81.9% 0;
 }
 
 #flickr {
 	left: 95.6%;
 	width: 32px;
-	background: url('icons/flickr.png') -95.6% 0;
+	background: url('../icons/flickr.png') -95.6% 0;
 }
 
-#picasa {
+#orcid {
 	left: 95.6%;
 	width: 32px;
-	background: url('icons/picasa.png') -95.6% 0;
 }

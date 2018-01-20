@@ -4,7 +4,8 @@
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/assets/css/main.css">
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/style.css">
 		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/assets/frameworks/bootstrap/css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="http://tomschenkjr.net/wordpress/wp-content/themes/invisible-assassin/front-page.css">
+		<link rel="stylesheet" type="text/css" href="front-page-assets/css/front-page.css">
+		<link rel="stylesheet" type="text/css" href="front-page-assets/css/academicons.css">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
 		<script>
@@ -47,10 +48,10 @@
 					<li id="twitter"><a href="http://twitter.com/tomschenkjr"></a></li>
 					<li id="contact"><a href="http://tomschenkjr.net/contact"></a></li>
 					<li id="linkedin"><a href="https://www.linkedin.com/profile/view?id=330468838&trk=spm_pic"></a></li>
-					<li id="google-plus"><a href="https://plus.google.com/+TomSchenkJr"></a></li>
 					<li id="github"><a href="http://github.com/tomschenkjr"></a></li>
+					<li id="google-scholar"><a href="https://scholar.google.com/citations?user=19e5HrEAAAAJ&hl=en"><i class="ai ai-google-scholar ai-3x"></i></a></li>
+					<li id="orcid"><a href="https://orcid.org/0000-0001-7533-1152"><i class="ai ai-orcid ai-3x"></i></a></li>
 					<li id="datanouveau"><a href="http://datanouveau.net"></a></li>
-					<li id="picasa"><a href="https://plus.google.com/+TomSchenkJr/photos"></a></li>
 				</ul>
 			</div>
 		</div>
